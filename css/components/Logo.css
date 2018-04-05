@@ -1,0 +1,10 @@
+.Logo {
+	background-image: url('../../images/logo.jpg');
+	float: left;
+	margin-right: 16px;
+	height: 80px;
+	width: 80px;
+	border: 1px solid #b0b0b0;
+	border-radius: 3px;
+	background-size: cover;
+}

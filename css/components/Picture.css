@@ -1,0 +1,8 @@
+.Picture {
+	border: 2px solid #b0b0b0;
+	border-radius: 3px;
+	width: 475px;
+	height: 300px;
+	margin: 25px 0 20px 0;
+	clear: left;
+}

@@ -1,0 +1,53 @@
+.Button {
+	margin-top: 10px;
+	width: 489px;
+	text-align: center;
+}
+.Button button {
+	width: 75px;
+	height: 75px;
+	border: 2px solid #b0b0b0;
+	border-radius: 3px;
+	margin-right: 10px;
+	cursor: pointer;
+	background-size: cover;
+}
+.Button button:hover {
+	border-color: #FFF;
+}
+.Button .camel {
+	background-image: url('../../images/animals/buttons/camel.jpg');
+}
+.Button .coyote {
+	background-image: url('../../images/animals/buttons/coyote.jpg');
+}
+.Button .elephant {
+	background-image: url('../../images/animals/buttons/elephant.jpg');
+}
+.Button .jaguar {
+	background-image: url('../../images/animals/buttons/jaguar.jpg');
+}
+.Button .lion {
+	background-image: url('../../images/animals/buttons/lion.jpg');
+}
+.Button .monkey {
+	background-image: url('../../images/animals/buttons/monkey.jpg');
+}
+.Button .panther {
+	background-image: url('../../images/animals/buttons/panther.jpg');
+}
+.Button .pig {
+	background-image: url('../../images/animals/buttons/pig.jpg');
+}
+.Button .racoon {
+	background-image: url('../../images/animals/buttons/racoon.jpg');
+}
+.Button .sealion {
+	background-image: url('../../images/animals/buttons/sealion.jpg');
+}
+.Button .tiger {
+	background-image: url('../../images/animals/buttons/tiger.jpg');
+}
+.Button .whale {
+	background-image: url('../../images/animals/buttons/whale.jpg');
+}
